@@ -17,9 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
-
-
-## Program
+## Program:
 ```
 Developed By: GOSHANRAJAN T
 Register No: 212225040098
